@@ -89,12 +89,10 @@ The project includes analysis of:
 
 ## 📁 Project Files
 
-* `ecommerce_sales.csv` – Dataset
-* `ecommerce_sales_analysis.sql` – SQL queries
+* `My_SQL_Project_Ecommerce.sql` – SQL queries
 * `README.md` – Project documentation
 
 ## 👨‍💻 Author
 
 Shivraj Gurjar
-
 Aspiring Data Analyst
